@@ -1,0 +1,961 @@
+#EXTM3U
+#EXTINF:-1,UK|BBC One UHD*
+http://webo.asia:80/vik/vik123/20180
+#EXTINF:-1,UK|BBC One London SD*
+http://webo.asia:80/vik/vik123/11965
+#EXTINF:-1,UK|BBC One Northern Ireland
+http://webo.asia:80/vik/vik123/11878
+#EXTINF:-1,UK|BBC One North West
+http://webo.asia:80/vik/vik123/15227
+#EXTINF:-1,UK|BBC One Wales HD*
+http://webo.asia:80/vik/vik123/11956
+#EXTINF:-1,UK|BBC One Scotland FHD*
+http://webo.asia:80/vik/vik123/11880
+#EXTINF:-1,UK|BBC One Yorkshire & North Midlands
+http://webo.asia:80/vik/vik123/11798
+#EXTINF:-1,UK|BBC One East Midlands SD*
+http://webo.asia:80/vik/vik123/80287
+#EXTINF:-1,UK|BBC One West Midlands
+http://webo.asia:80/vik/vik123/11951
+#EXTINF:-1,UK|BBC Red Button 1
+http://webo.asia:80/vik/vik123/21057
+#EXTINF:-1,UK|BBC Parliament SD*
+http://webo.asia:80/vik/vik123/11952
+#EXTINF:-1,UK|BBC Two UHD*
+http://webo.asia:80/vik/vik123/20179
+#EXTINF:-1,UK|BBC Two SD*
+http://webo.asia:80/vik/vik123/11957
+#EXTINF:-1,UK|BBC Two Ireland SD*
+http://webo.asia:80/vik/vik123/20174
+#EXTINF:-1,UK|BBC Four FHD*
+http://webo.asia:80/vik/vik123/11955
+#EXTINF:-1,UK|ITV 1 UHD*
+http://webo.asia:80/vik/vik123/20178
+#EXTINF:-1,UK|ITV Tyne Tees FHD*
+http://webo.asia:80/vik/vik123/11942
+#EXTINF:-1,UK|ITV Wales FHD*
+http://webo.asia:80/vik/vik123/11860
+#EXTINF:-1,UK|ITV 1 London SD*
+http://webo.asia:80/vik/vik123/11948
+#EXTINF:-1,UK|ITV +1 SD*
+http://webo.asia:80/vik/vik123/14028
+#EXTINF:-1,UK|ITV 2 FHD*
+http://webo.asia:80/vik/vik123/11806
+#EXTINF:-1,UK|ITV 2 SD*
+http://webo.asia:80/vik/vik123/11946
+#EXTINF:-1,UK|ITV 2 +1 SD*
+http://webo.asia:80/vik/vik123/14033
+#EXTINF:-1,UK|ITV 3 UHD*
+http://webo.asia:80/vik/vik123/11807
+#EXTINF:-1,UK|ITV 3 FHD
+http://webo.asia:80/vik/vik123/11945
+#EXTINF:-1,UK|ITV 3 +1 SD*
+http://webo.asia:80/vik/vik123/14032
+#EXTINF:-1,UK|ITV 4 UHD*
+http://webo.asia:80/vik/vik123/11808
+#EXTINF:-1,UK|ITV 4 HD*
+http://webo.asia:80/vik/vik123/11944
+#EXTINF:-1,UK|ITV 4 +1 SD*
+http://webo.asia:80/vik/vik123/14031
+#EXTINF:-1,UK|ITV BE FHD*
+http://webo.asia:80/vik/vik123/11943
+#EXTINF:-1,UK|ITV Be SD*
+http://webo.asia:80/vik/vik123/80300
+#EXTINF:-1,UK|London Live SD*
+http://webo.asia:80/vik/vik123/11964
+#EXTINF:-1,UK|Channel 4 UHD*
+http://webo.asia:80/vik/vik123/20177
+#EXTINF:-1,UK|Channel 4 SD*
+http://webo.asia:80/vik/vik123/11933
+#EXTINF:-1,UK|Channel 4 +1 SD*
+http://webo.asia:80/vik/vik123/16192
+#EXTINF:-1,UK|Channel 5 UHD*
+http://webo.asia:80/vik/vik123/20176
+#EXTINF:-1,UK|Channel 5 SD*
+http://webo.asia:80/vik/vik123/11852
+#EXTINF:-1,UK|Channel 5 +1 SD*
+http://webo.asia:80/vik/vik123/16191
+#EXTINF:-1,UK|Sky One FHD*
+http://webo.asia:80/vik/vik123/21048
+#EXTINF:-1,UK|Sky One SD*
+http://webo.asia:80/vik/vik123/11805
+#EXTINF:-1,UK|Sky One +1 SD*
+http://webo.asia:80/vik/vik123/14075
+#EXTINF:-1,UK|Sky Witness UHD*
+http://webo.asia:80/vik/vik123/14030
+#EXTINF:-1,UK|Sky Witness +1 FHD*
+http://webo.asia:80/vik/vik123/91937
+#EXTINF:-1,UK|Sky Atlantic FHD*
+http://webo.asia:80/vik/vik123/15248
+#EXTINF:-1,UK|Sky Atlantic +1 FHD*
+http://webo.asia:80/vik/vik123/93048
+#EXTINF:-1,UK|Sky Atlantic SD*
+http://webo.asia:80/vik/vik123/11998
+#EXTINF:-1,UK|Watch FHD*
+http://webo.asia:80/vik/vik123/21050
+#EXTINF:-1,UK|Watch +1 HD*
+http://webo.asia:80/vik/vik123/11959
+#EXTINF:-1,UK|GOLD UHD*
+http://webo.asia:80/vik/vik123/11888
+#EXTINF:-1,UK|Gold SD*
+http://webo.asia:80/vik/vik123/11885
+#EXTINF:-1,UK|Gold +1 SD*
+http://webo.asia:80/vik/vik123/11960
+#EXTINF:-1,UK|Dave FHD*
+http://webo.asia:80/vik/vik123/21051
+#EXTINF:-1,UK|Dave SD*
+http://webo.asia:80/vik/vik123/11893
+#EXTINF:-1,UK|Dave Ja Vu SD*
+http://webo.asia:80/vik/vik123/14533
+#EXTINF:-1,UK|Comedy Central FHD*
+http://webo.asia:80/vik/vik123/21047
+#EXTINF:-1,UK|Comedy Central SD*
+http://webo.asia:80/vik/vik123/14239
+#EXTINF:-1,UK|Comedy Central +1 SD*
+http://webo.asia:80/vik/vik123/16193
+#EXTINF:-1,UK|Comedy Central Xtra SD*
+http://webo.asia:80/vik/vik123/11875
+#EXTINF:-1,UK|Comedy Xtra SD*
+http://webo.asia:80/vik/vik123/162245
+#EXTINF:-1,UK|ComedyXtra +1 SD*
+http://webo.asia:80/vik/vik123/11818
+#EXTINF:-1,UK|SyFy FHD*
+http://webo.asia:80/vik/vik123/11894
+#EXTINF:-1,UK|SyFy +1 SD*
+http://webo.asia:80/vik/vik123/14534
+#EXTINF:-1,UK|Sky Arts UHD*
+http://webo.asia:80/vik/vik123/11895
+#EXTINF:-1,UK|E! Entertainment FHD*
+http://webo.asia:80/vik/vik123/11963
+#EXTINF:-1,UK|E! Entertainment SD*
+http://webo.asia:80/vik/vik123/11890
+#EXTINF:-1,UK|Channel 7 SD*
+http://webo.asia:80/vik/vik123/11912
+#EXTINF:-1,UK|Forces TV
+http://webo.asia:80/vik/vik123/80313
+#EXTINF:-1,UK|Court TV SD*
+http://webo.asia:80/vik/vik123/21055
+#EXTINF:-1,UK|5 STAR +1 SD*
+http://webo.asia:80/vik/vik123/15720
+#EXTINF:-1,UK|FOX FHD*
+http://webo.asia:80/vik/vik123/11884
+#EXTINF:-1,UK|5 STAR SD*
+http://webo.asia:80/vik/vik123/15721
+#EXTINF:-1,UK|5 Select SD*
+http://webo.asia:80/vik/vik123/16442
+#EXTINF:-1,UK|Alibi FHD*
+http://webo.asia:80/vik/vik123/11889
+#EXTINF:-1,UK|Alibi +1 SD*
+http://webo.asia:80/vik/vik123/11886
+#EXTINF:-1,UK|PICK TV FHD*
+http://webo.asia:80/vik/vik123/16560
+#EXTINF:-1,UK|Pick +1 SD*
+http://webo.asia:80/vik/vik123/21046
+#EXTINF:-1,UK|TLC FHD*
+http://webo.asia:80/vik/vik123/11883
+#EXTINF:-1,UK|TLC +1 SD*
+http://webo.asia:80/vik/vik123/21045
+#EXTINF:-1,UK|E4 FHD*
+http://webo.asia:80/vik/vik123/21036
+#EXTINF:-1,UK|E4 SD*
+http://webo.asia:80/vik/vik123/15254
+#EXTINF:-1,UK|E4 +1 SD*
+http://webo.asia:80/vik/vik123/15255
+#EXTINF:-1,UK|More 4 FHD*
+http://webo.asia:80/vik/vik123/21044
+#EXTINF:-1,UK|More 4 SD*
+http://webo.asia:80/vik/vik123/11947
+#EXTINF:-1,UK|More 4 +1 SD*
+http://webo.asia:80/vik/vik123/11820
+#EXTINF:-1,UK|4 Seven FHD*
+http://webo.asia:80/vik/vik123/14149
+#EXTINF:-1,UK|5 USA SD*
+http://webo.asia:80/vik/vik123/11879
+#EXTINF:-1,UK|5 USA+1 SD*
+http://webo.asia:80/vik/vik123/11868
+#EXTINF:-1,UK|Really SD*
+http://webo.asia:80/vik/vik123/11882
+#EXTINF:-1,UK|Drama SD*
+http://webo.asia:80/vik/vik123/11887
+#EXTINF:-1,UK|Quest SD*
+http://webo.asia:80/vik/vik123/22203
+#EXTINF:-1,UK|Paramount SD*
+http://webo.asia:80/vik/vik123/80312
+#EXTINF:-1,UK|CBS Drama SD*
+http://webo.asia:80/vik/vik123/11870
+#EXTINF:-1,UK|Quest +1 SD*
+http://webo.asia:80/vik/vik123/14074
+#EXTINF:-1,UK|CBS Justice SD*
+http://webo.asia:80/vik/vik123/11869
+#EXTINF:-1,UK|CBS Reality SD*
+http://webo.asia:80/vik/vik123/11871
+#EXTINF:-1,UK|CBS Reality +1 SD*
+http://webo.asia:80/vik/vik123/11819
+#EXTINF:-1,UK|Quest RED SD*
+http://webo.asia:80/vik/vik123/11892
+#EXTINF:-1,UK|Quest RED +1 SD*
+http://webo.asia:80/vik/vik123/11935
+#EXTINF:-1,UK|Showcase
+http://webo.asia:80/vik/vik123/16662
+#EXTINF:-1,UK|Challenge SD*
+http://webo.asia:80/vik/vik123/11877
+#EXTINF:-1,UK|Challenge +1 SD*
+http://webo.asia:80/vik/vik123/11874
+#EXTINF:-1,UK|iON TV SD*
+http://webo.asia:80/vik/vik123/15228
+#EXTINF:-1,UK|Sky Two SD*
+http://webo.asia:80/vik/vik123/11897
+#EXTINF:-1,UK|DMAX SD*
+http://webo.asia:80/vik/vik123/11864
+#EXTINF:-1,UK|SonLife SD*
+http://webo.asia:80/vik/vik123/80316
+#EXTINF:-1,UK|SKY REPLAY SD*
+http://webo.asia:80/vik/vik123/80333
+#EXTINF:-1,UK|Sporty Stuff FHD*
+http://webo.asia:80/vik/vik123/80299
+#EXTINF:-1,UK|Food Network SD*
+http://webo.asia:80/vik/vik123/11873
+#EXTINF:-1,UK|Food Network +1 SD*
+http://webo.asia:80/vik/vik123/80289
+#EXTINF:-1,UK|Primal Living
+http://webo.asia:80/vik/vik123/11876
+#EXTINF:-1,UK|Paddy Power TV
+http://webo.asia:80/vik/vik123/14047
+#EXTINF:-1,UK|RTE One FHD*
+http://webo.asia:80/vik/vik123/15250
+#EXTINF:-1,UK|RTE One HD*
+http://webo.asia:80/vik/vik123/11950
+#EXTINF:-1,UK|RTE One +1 SD*
+http://webo.asia:80/vik/vik123/16101
+#EXTINF:-1,UK|RTE 2 IE SD*
+http://webo.asia:80/vik/vik123/11949
+#EXTINF:-1,UK|RTE 2 FHD*
+http://webo.asia:80/vik/vik123/15249
+#EXTINF:-1,UK|STV FHD
+http://webo.asia:80/vik/vik123/16097
+#EXTINF:-1,UK|S4C FHD*
+http://webo.asia:80/vik/vik123/84607
+#EXTINF:-1,UK|S4C SD*
+http://webo.asia:80/vik/vik123/11940
+#EXTINF:-1,UK|Create & Craft SD*
+http://webo.asia:80/vik/vik123/15246
+#EXTINF:-1,UK|TG4 IE FHD*
+http://webo.asia:80/vik/vik123/11937
+#EXTINF:-1,UK|VIRGIN MEDIA ONE FHD*
+http://webo.asia:80/vik/vik123/11938
+#EXTINF:-1,UK|VIRGIN MEDIA TWO FHD*
+http://webo.asia:80/vik/vik123/11936
+#EXTINF:-1,UK|VIRGIN MEDIA THREE FHD*
+http://webo.asia:80/vik/vik123/11914
+#EXTINF:-1,UK|UTV FHD*
+http://webo.asia:80/vik/vik123/20173
+#EXTINF:-1,UK|UTV IRELAND FHD*
+http://webo.asia:80/vik/vik123/11939
+#EXTINF:-1,UK|UTV +1 SD*
+http://webo.asia:80/vik/vik123/84608
+#EXTINF:-1,UK|Live 360 SD*
+http://webo.asia:80/vik/vik123/80303
+#EXTINF:-1,UK|ROK SD*
+http://webo.asia:80/vik/vik123/80314
+#EXTINF:-1,UK|Vox Africa SD*
+http://webo.asia:80/vik/vik123/80330
+#EXTINF:-1,UK|YANGA! TV SD*
+http://webo.asia:80/vik/vik123/80331
+#EXTINF:-1,UK|Best Direct SD*
+http://webo.asia:80/vik/vik123/80284
+#EXTINF:-1,UK|BEN TV SD*
+http://webo.asia:80/vik/vik123/80282
+#EXTINF:-1,UK|Craft Extra SD*
+http://webo.asia:80/vik/vik123/80286
+#EXTINF:-1,UK|Gems TV SD*
+http://webo.asia:80/vik/vik123/80290
+#EXTINF:-1,UK|High Street TV 4 SD*
+http://webo.asia:80/vik/vik123/80297
+#EXTINF:-1,UK|High Street TV 5 SD*
+http://webo.asia:80/vik/vik123/80298
+#EXTINF:-1,UK|JML Direct SD*
+http://webo.asia:80/vik/vik123/80302
+#EXTINF:-1,UK|High Street TV 1 SD*
+http://webo.asia:80/vik/vik123/80294
+#EXTINF:-1,UK|High Street TV 2 SD*
+http://webo.asia:80/vik/vik123/80295
+#EXTINF:-1,UK|High Street TV 3 SD*
+http://webo.asia:80/vik/vik123/80296
+#EXTINF:-1,UK|TV Warehouse SD*
+http://webo.asia:80/vik/vik123/80322
+#EXTINF:-1,UK|Travelxp SD*
+http://webo.asia:80/vik/vik123/80329
+#EXTINF:-1,UK|TV Warehouse SD*
+http://webo.asia:80/vik/vik123/80324
+#EXTINF:-1,UK|Sky Cinema Premier UHD*
+http://webo.asia:80/vik/vik123/20181
+#EXTINF:-1,UK|Sky Cinema Premier SD*
+http://webo.asia:80/vik/vik123/11913
+#EXTINF:-1,UK|Sky Cinema Premier +1 UHD*
+http://webo.asia:80/vik/vik123/14081
+#EXTINF:-1,UK|Sky Cinema Animation FHD*
+http://webo.asia:80/vik/vik123/80321
+#EXTINF:-1,UK|Sky Cinema Great UHD*
+http://webo.asia:80/vik/vik123/11800
+#EXTINF:-1,UK|Sky Cinema Great SD*
+http://webo.asia:80/vik/vik123/20184
+#EXTINF:-1,UK|Sky Cinema Hits UHD*
+http://webo.asia:80/vik/vik123/20183
+#EXTINF:-1,UK|Sky Cinema Hits SD*
+http://webo.asia:80/vik/vik123/11911
+#EXTINF:-1,UK|Sky Cinema SciFi & Horror UHD*
+http://webo.asia:80/vik/vik123/20190
+#EXTINF:-1,UK|Sky Cinema SciFi & Hor SD*
+http://webo.asia:80/vik/vik123/11904
+#EXTINF:-1,UK|Sky Cinema Family UHD*
+http://webo.asia:80/vik/vik123/20186
+#EXTINF:-1,UK|Sky Cinema Family SD*
+http://webo.asia:80/vik/vik123/11910
+#EXTINF:-1,UK|Sky Cinema Action UHD*
+http://webo.asia:80/vik/vik123/20187
+#EXTINF:-1,UK|Sky Cinema Action SD*
+http://webo.asia:80/vik/vik123/11907
+#EXTINF:-1,UK|SKY Cinema Comedy UHD*
+http://webo.asia:80/vik/vik123/20188
+#EXTINF:-1,UK|Sky Cinema Comedy SD*
+http://webo.asia:80/vik/vik123/11908
+#EXTINF:-1,UK|Sky Cinema Thriller UHD*
+http://webo.asia:80/vik/vik123/20191
+#EXTINF:-1,UK|Sky Cinema Thriller SD*
+http://webo.asia:80/vik/vik123/11906
+#EXTINF:-1,UK|Sky Cinema Drama UHD*
+http://webo.asia:80/vik/vik123/20182
+#EXTINF:-1,UK|Sky Cinema Drama SD*
+http://webo.asia:80/vik/vik123/11909
+#EXTINF:-1,UK|Sky Cinema Select UHD*
+http://webo.asia:80/vik/vik123/20189
+#EXTINF:-1,UK|Sky Cinema Select SD*
+http://webo.asia:80/vik/vik123/11905
+#EXTINF:-1,UK|Film 4 UHD*
+http://webo.asia:80/vik/vik123/14531
+#EXTINF:-1,UK|Film 4 SD*
+http://webo.asia:80/vik/vik123/14532
+#EXTINF:-1,UK|TCM FHD*
+http://webo.asia:80/vik/vik123/21049
+#EXTINF:-1,UK|Horror Channel SD*
+http://webo.asia:80/vik/vik123/11899
+#EXTINF:-1,UK|Horror + 1 SD*
+http://webo.asia:80/vik/vik123/80332
+#EXTINF:-1,UK|Sony Channel SD*
+http://webo.asia:80/vik/vik123/11900
+#EXTINF:-1,UK|Sony Channel +1 SD*
+http://webo.asia:80/vik/vik123/80320
+#EXTINF:-1,UK|Sony Movies SD*
+http://webo.asia:80/vik/vik123/16661
+#EXTINF:-1,UK|Sony Movies +1 SD*
+http://webo.asia:80/vik/vik123/11903
+#EXTINF:-1,UK|Sony Classic SD*
+http://webo.asia:80/vik/vik123/80318
+#EXTINF:-1,UK|Sony Classic +1 SD*
+http://webo.asia:80/vik/vik123/80319
+#EXTINF:-1,UK|Sony Crime SD*
+http://webo.asia:80/vik/vik123/22383
+#EXTINF:-1,UK|Sony Movies Action SD*
+http://webo.asia:80/vik/vik123/11872
+#EXTINF:-1,UK|Sony Movies Action +1 SD*
+http://webo.asia:80/vik/vik123/16099
+#EXTINF:-1,UK|Talking Picture TV SD*
+http://webo.asia:80/vik/vik123/11902
+#EXTINF:-1,UK|Sky Sports Main Event SD*
+http://webo.asia:80/vik/vik123/164493
+#EXTINF:-1,UK|Sky Sports Main Event HD**
+http://webo.asia:80/vik/vik123/94050
+#EXTINF:-1,UK|Sky Sports Main Event FHD*
+http://webo.asia:80/vik/vik123/20172
+#EXTINF:-1,UK|Sky Sports Main Event UHD
+http://webo.asia:80/vik/vik123/35796
+#EXTINF:-1,UK|Sky Sports Football SD*
+http://webo.asia:80/vik/vik123/164495
+#EXTINF:-1,UK|Sky Sports Football HD**
+http://webo.asia:80/vik/vik123/94052
+#EXTINF:-1,UK|Sky Sports Football FHD*
+http://webo.asia:80/vik/vik123/20170
+#EXTINF:-1,UK|Sky Sports Football UHD
+http://webo.asia:80/vik/vik123/35798
+#EXTINF:-1,UK|Sky Sports Premier League SD*
+http://webo.asia:80/vik/vik123/164499
+#EXTINF:-1,UK|Sky Sports Premier League HD**
+http://webo.asia:80/vik/vik123/94051
+#EXTINF:-1,UK|Sky Sports Premier League FHD*
+http://webo.asia:80/vik/vik123/20171
+#EXTINF:-1,UK|Sky Sports Premier League UHD
+http://webo.asia:80/vik/vik123/35797
+#EXTINF:-1,UK|Sky Sports Cricket SD*
+http://webo.asia:80/vik/vik123/164497
+#EXTINF:-1,UK|Sky Sports Cricket HD**
+http://webo.asia:80/vik/vik123/94059
+#EXTINF:-1,UK|Sky Sports Cricket FHD*
+http://webo.asia:80/vik/vik123/20169
+#EXTINF:-1,UK|Sky Sports Cricket  UHD
+http://webo.asia:80/vik/vik123/35799
+#EXTINF:-1,UK|Sky Sports Golf SD*
+http://webo.asia:80/vik/vik123/164498
+#EXTINF:-1,UK|Sky Sports Golf FHD*
+http://webo.asia:80/vik/vik123/20168
+#EXTINF:-1,UK|Sky Sports Golf UHD
+http://webo.asia:80/vik/vik123/35800
+#EXTINF:-1,UK|Sky Sports F1 SD*
+http://webo.asia:80/vik/vik123/164500
+#EXTINF:-1,UK|Sky Sports F1 HD**
+http://webo.asia:80/vik/vik123/94055
+#EXTINF:-1,UK|Sky Sports F1 FHD*
+http://webo.asia:80/vik/vik123/20167
+#EXTINF:-1,UK|Sky Sports F1 UHD
+http://webo.asia:80/vik/vik123/35803
+#EXTINF:-1,UK|Sky Sports Action SD*
+http://webo.asia:80/vik/vik123/164496
+#EXTINF:-1,UK|Sky Sports Action HD**
+http://webo.asia:80/vik/vik123/94054
+#EXTINF:-1,UK|Sky Sports Action FHD*
+http://webo.asia:80/vik/vik123/20166
+#EXTINF:-1,UK|Sky Sports Action UHD
+http://webo.asia:80/vik/vik123/35802
+#EXTINF:-1,UK|Sky Sports Arena SD*
+http://webo.asia:80/vik/vik123/164494
+#EXTINF:-1,UK|Sky Sports Arena HD**
+http://webo.asia:80/vik/vik123/94053
+#EXTINF:-1,UK|Sky Sports Arena FHD*
+http://webo.asia:80/vik/vik123/20165
+#EXTINF:-1,UK|Sky Sports Arena UHD
+http://webo.asia:80/vik/vik123/35801
+#EXTINF:-1,UK|Sky Sports Mix SD*
+http://webo.asia:80/vik/vik123/164507
+#EXTINF:-1,UK|Sky Sports Mix HD**
+http://webo.asia:80/vik/vik123/94060
+#EXTINF:-1,UK|Sky Sports MIX FHD*
+http://webo.asia:80/vik/vik123/20164
+#EXTINF:-1,UK|Sky Sports MIX UHD
+http://webo.asia:80/vik/vik123/35804
+#EXTINF:-1,UK|Sky Sports Racing HD*
+http://webo.asia:80/vik/vik123/164501
+#EXTINF:-1,UK|Sky Sports Racing HD**
+http://webo.asia:80/vik/vik123/94057
+#EXTINF:-1,UK|SKY Sports Racing UHD
+http://webo.asia:80/vik/vik123/35805
+#EXTINF:-1,UK|Sky Sports News SD*
+http://webo.asia:80/vik/vik123/164506
+#EXTINF:-1,UK|Sky Sports News HD**
+http://webo.asia:80/vik/vik123/94056
+#EXTINF:-1,UK|Sky Sports News FHD*
+http://webo.asia:80/vik/vik123/15269
+#EXTINF:-1,UK|CELTIC TV (Match time Only)
+http://webo.asia:80/vik/vik123/57517
+#EXTINF:-1,UK|BT Sports 1 SD*
+http://webo.asia:80/vik/vik123/164505
+#EXTINF:-1,UK|BT Sports 1 HD**
+http://webo.asia:80/vik/vik123/11982
+#EXTINF:-1,UK|BT Sports 1 FHD*
+http://webo.asia:80/vik/vik123/15274
+#EXTINF:-1,UK|BT Sports 1 UHD*
+http://webo.asia:80/vik/vik123/20161
+#EXTINF:-1,UK|BT Sports 2 SD*
+http://webo.asia:80/vik/vik123/164503
+#EXTINF:-1,UK|BT Sports 2 HD**
+http://webo.asia:80/vik/vik123/11981
+#EXTINF:-1,UK|BT Sports 2 FHD*
+http://webo.asia:80/vik/vik123/15273
+#EXTINF:-1,UK|BT Sports 2 UHD*
+http://webo.asia:80/vik/vik123/20160
+#EXTINF:-1,UK|BT Sports 3 SD*
+http://webo.asia:80/vik/vik123/164502
+#EXTINF:-1,UK|BT Sports 3 HD**
+http://webo.asia:80/vik/vik123/11980
+#EXTINF:-1,UK|BT Sports 3 FHD*
+http://webo.asia:80/vik/vik123/15272
+#EXTINF:-1,UK|BT Sports 3 UHD*
+http://webo.asia:80/vik/vik123/20159
+#EXTINF:-1,UK|BT Sports ESPN SD*
+http://webo.asia:80/vik/vik123/164504
+#EXTINF:-1,UK|BT Sports ESPN HD**
+http://webo.asia:80/vik/vik123/11979
+#EXTINF:-1,UK|BT Sports ESPN FHD*
+http://webo.asia:80/vik/vik123/11796
+#EXTINF:-1,UK|BT Sports ESPN UHD*
+http://webo.asia:80/vik/vik123/20158
+#EXTINF:-1,UK|Premier Sport 1 FHD*
+http://webo.asia:80/vik/vik123/13840
+#EXTINF:-1,UK|Premier Sports 2 SD
+http://webo.asia:80/vik/vik123/12000
+#EXTINF:-1,UK|Premier Sport 2 FHD*
+http://webo.asia:80/vik/vik123/11972
+#EXTINF:-1,UK|LA LIGA TV FHD
+http://webo.asia:80/vik/vik123/22153
+#EXTINF:-1,UK|LA LIGA TV HD
+http://webo.asia:80/vik/vik123/22152
+#EXTINF:-1,UK|Liverpool FC TV FHD*
+http://webo.asia:80/vik/vik123/20157
+#EXTINF:-1,UK|LFC TV HD
+http://webo.asia:80/vik/vik123/15256
+#EXTINF:-1,UK|LFC TV SD*
+http://webo.asia:80/vik/vik123/14049
+#EXTINF:-1,UK|At The Races SD*
+http://webo.asia:80/vik/vik123/11975
+#EXTINF:-1,UK|Box Nation SD*
+http://webo.asia:80/vik/vik123/15268
+#EXTINF:-1,UK|BoxNation FHD*
+http://webo.asia:80/vik/vik123/20156
+#EXTINF:-1,UK|Chelsea TV FHD (Live On Matches)
+http://webo.asia:80/vik/vik123/11967
+#EXTINF:-1,UK|Rangers TV FHD
+http://webo.asia:80/vik/vik123/11966
+#EXTINF:-1,UK|Racing FHD*
+http://webo.asia:80/vik/vik123/11974
+#EXTINF:-1,UK|Racing TV FHD**
+http://webo.asia:80/vik/vik123/94058
+#EXTINF:-1,UK|MUTV FHD*
+http://webo.asia:80/vik/vik123/21037
+#EXTINF:-1,UK|Motorsport.tv SD*
+http://webo.asia:80/vik/vik123/11973
+#EXTINF:-1,UK|MUTV SD*
+http://webo.asia:80/vik/vik123/11969
+#EXTINF:-1,UK|FreeSports TV FHD*
+http://webo.asia:80/vik/vik123/11971
+#EXTINF:-1,UK|BT Sport Mosaic SD*
+http://webo.asia:80/vik/vik123/11978
+#EXTINF:-1,UK|Cartoon Network FHD*
+http://webo.asia:80/vik/vik123/20208
+#EXTINF:-1,UK|Cartoon Network SD*
+http://webo.asia:80/vik/vik123/11846
+#EXTINF:-1,UK|Cartoon Network +1 SD*
+http://webo.asia:80/vik/vik123/11814
+#EXTINF:-1,UK|Boomerang FHD*
+http://webo.asia:80/vik/vik123/20207
+#EXTINF:-1,UK|Boomerang SD*
+http://webo.asia:80/vik/vik123/11845
+#EXTINF:-1,UK|Boomrang +1 SD*
+http://webo.asia:80/vik/vik123/11821
+#EXTINF:-1,UK|CBBC FHD*
+http://webo.asia:80/vik/vik123/20202
+#EXTINF:-1,UK|CBBC HD
+http://webo.asia:80/vik/vik123/11962
+#EXTINF:-1,UK|CBeebies FHD*
+http://webo.asia:80/vik/vik123/20200
+#EXTINF:-1,UK|CBBC FHD
+http://webo.asia:80/vik/vik123/11953
+#EXTINF:-1,UK|CBeebies HD*
+http://webo.asia:80/vik/vik123/11954
+#EXTINF:-1,UK|Disney Channel SD*
+http://webo.asia:80/vik/vik123/11847
+#EXTINF:-1,UK|Disney Junior SD*
+http://webo.asia:80/vik/vik123/11848
+#EXTINF:-1,UK|Disney XD SD*
+http://webo.asia:80/vik/vik123/11849
+#EXTINF:-1,UK|Disney XD UHD*
+http://webo.asia:80/vik/vik123/20196
+#EXTINF:-1,UK|Disney Junior FHD*
+http://webo.asia:80/vik/vik123/20197
+#EXTINF:-1,UK|Disney Channel +1
+http://webo.asia:80/vik/vik123/20198
+#EXTINF:-1,UK|Disney Channel FHD*
+http://webo.asia:80/vik/vik123/20199
+#EXTINF:-1,UK|Nick SD*
+http://webo.asia:80/vik/vik123/11843
+#EXTINF:-1,UK|Nick +1 SD*
+http://webo.asia:80/vik/vik123/20194
+#EXTINF:-1,UK|Nick Junior FHD*
+http://webo.asia:80/vik/vik123/20195
+#EXTINF:-1,UK|Nick Junior SD*
+http://webo.asia:80/vik/vik123/11842
+#EXTINF:-1,UK|Nick JR PAW Patrol*
+http://webo.asia:80/vik/vik123/162246
+#EXTINF:-1,UK|Nick Jr+1 SD*
+http://webo.asia:80/vik/vik123/14088
+#EXTINF:-1,UK|Nick Jr Too SD*
+http://webo.asia:80/vik/vik123/11841
+#EXTINF:-1,UK|NickToons HD
+http://webo.asia:80/vik/vik123/11840
+#EXTINF:-1,UK|NickToons*
+http://webo.asia:80/vik/vik123/20203
+#EXTINF:-1,UK|Nickelodeon UHD*
+http://webo.asia:80/vik/vik123/20204
+#EXTINF:-1,UK|PoP SD*
+http://webo.asia:80/vik/vik123/20210
+#EXTINF:-1,UK|PoP +1 SD*
+http://webo.asia:80/vik/vik123/20209
+#EXTINF:-1,UK|Tinypop SD*
+http://webo.asia:80/vik/vik123/20206
+#EXTINF:-1,UK|Tiny Pop +1 SD*
+http://webo.asia:80/vik/vik123/11958
+#EXTINF:-1,UK|Cartoonito SD*
+http://webo.asia:80/vik/vik123/11844
+#EXTINF:-1,UK|Cartoonito*
+http://webo.asia:80/vik/vik123/20205
+#EXTINF:-1,UK|CITV SD*
+http://webo.asia:80/vik/vik123/11941
+#EXTINF:-1,UK|Baby TV SD
+http://webo.asia:80/vik/vik123/20201
+#EXTINF:-1,UK|POP Max SD*
+http://webo.asia:80/vik/vik123/20193
+#EXTINF:-1,UK|Baby TV SD*
+http://webo.asia:80/vik/vik123/11851
+#EXTINF:-1,UK|POP Max +1 SD*
+http://webo.asia:80/vik/vik123/11799
+#EXTINF:-1,UK|RTE jr SD*
+http://webo.asia:80/vik/vik123/11850
+#EXTINF:-1,UK|Discovery UHD*
+http://webo.asia:80/vik/vik123/11863
+#EXTINF:-1,UK|Discovery SD*
+http://webo.asia:80/vik/vik123/11804
+#EXTINF:-1,UK|Discovery +1 SD*
+http://webo.asia:80/vik/vik123/14145
+#EXTINF:-1,UK|National Geographic UHD*
+http://webo.asia:80/vik/vik123/20175
+#EXTINF:-1,UK|National Geographic SD*
+http://webo.asia:80/vik/vik123/11809
+#EXTINF:-1,UK|National Geographic +1 SD*
+http://webo.asia:80/vik/vik123/16134
+#EXTINF:-1,UK|Sky Nature FHD
+http://webo.asia:80/vik/vik123/90522
+#EXTINF:-1,UK|Sky Documentaries FHD
+http://webo.asia:80/vik/vik123/80301
+#EXTINF:-1,UK|Discovery History SD*
+http://webo.asia:80/vik/vik123/11861
+#EXTINF:-1,UK|Discovery History +1 SD*
+http://webo.asia:80/vik/vik123/14146
+#EXTINF:-1,UK|Investigation Discovery SD*
+http://webo.asia:80/vik/vik123/11854
+#EXTINF:-1,UK|ID +1 SD*
+http://webo.asia:80/vik/vik123/14152
+#EXTINF:-1,UK|Yesterday SD*
+http://webo.asia:80/vik/vik123/11891
+#EXTINF:-1,UK|Animal Planet UHD*
+http://webo.asia:80/vik/vik123/11865
+#EXTINF:-1,UK|Animal Planet SD*
+http://webo.asia:80/vik/vik123/80283
+#EXTINF:-1,UK|Animal Planet +1 SD*
+http://webo.asia:80/vik/vik123/14150
+#EXTINF:-1,UK|Crime & Investigation UHD*
+http://webo.asia:80/vik/vik123/21041
+#EXTINF:-1,UK|Crime & Investigation SD*
+http://webo.asia:80/vik/vik123/11853
+#EXTINF:-1,UK|Crime & Investigation +1
+http://webo.asia:80/vik/vik123/14073
+#EXTINF:-1,UK|Nat Geo Wild UHD*
+http://webo.asia:80/vik/vik123/11856
+#EXTINF:-1,UK|Nat Geo Wild SD*
+http://webo.asia:80/vik/vik123/16670
+#EXTINF:-1,UK|Discovery Science HD
+http://webo.asia:80/vik/vik123/11862
+#EXTINF:-1,UK|Discovery Science +1
+http://webo.asia:80/vik/vik123/14147
+#EXTINF:-1,UK|Discovery Shed SD*
+http://webo.asia:80/vik/vik123/11858
+#EXTINF:-1,UK|Discovery Turbo HD*
+http://webo.asia:80/vik/vik123/11859
+#EXTINF:-1,UK|DMAX +1 SD*
+http://webo.asia:80/vik/vik123/16663
+#EXTINF:-1,UK|Discovery Turbo +1 SD*
+http://webo.asia:80/vik/vik123/11822
+#EXTINF:-1,UK|Eden FHD*
+http://webo.asia:80/vik/vik123/21042
+#EXTINF:-1,UK|Eden SD* +1
+http://webo.asia:80/vik/vik123/11881
+#EXTINF:-1,UK|H2 FHD*
+http://webo.asia:80/vik/vik123/11866
+#EXTINF:-1,UK|History FHD*
+http://webo.asia:80/vik/vik123/21043
+#EXTINF:-1,UK|History SD*
+http://webo.asia:80/vik/vik123/11867
+#EXTINF:-1,UK|HGTV SD*
+http://webo.asia:80/vik/vik123/80292
+#EXTINF:-1,UK|HGTV +1 SD*
+http://webo.asia:80/vik/vik123/80293
+#EXTINF:-1,UK|Food XP SD*
+http://webo.asia:80/vik/vik123/11901
+#EXTINF:-1,UK|Travel XP SD*
+http://webo.asia:80/vik/vik123/11855
+#EXTINF:-1,UK|CGTN Documentary
+http://webo.asia:80/vik/vik123/11915
+#EXTINF:-1,UK|4Music
+http://webo.asia:80/vik/vik123/11825
+#EXTINF:-1,UK|Capital Music TV
+http://webo.asia:80/vik/vik123/11812
+#EXTINF:-1,UK|Heart Dance
+http://webo.asia:80/vik/vik123/11823
+#EXTINF:-1,UK|Magic SD*
+http://webo.asia:80/vik/vik123/11824
+#EXTINF:-1,UK|MTV 24 Music SD*
+http://webo.asia:80/vik/vik123/11810
+#EXTINF:-1,UK|MTV FHD*
+http://webo.asia:80/vik/vik123/11837
+#EXTINF:-1,UK|MTV +1 SD*
+http://webo.asia:80/vik/vik123/22388
+#EXTINF:-1,UK|Clubland TV
+http://webo.asia:80/vik/vik123/11838
+#EXTINF:-1,UK|MTV Base SD*
+http://webo.asia:80/vik/vik123/11833
+#EXTINF:-1,UK|MTV Classic SD*
+http://webo.asia:80/vik/vik123/11829
+#EXTINF:-1,UK|MTV Music SD*
+http://webo.asia:80/vik/vik123/11830
+#EXTINF:-1,UK|MTV Music +1 SD*
+http://webo.asia:80/vik/vik123/11836
+#EXTINF:-1,UK|MTV Hits SD*
+http://webo.asia:80/vik/vik123/11839
+#EXTINF:-1,UK|MTV FHD*
+http://webo.asia:80/vik/vik123/11835
+#EXTINF:-1,UK|MTV 90's SD*
+http://webo.asia:80/vik/vik123/11832
+#EXTINF:-1,UK|MTV 80s SD*
+http://webo.asia:80/vik/vik123/80304
+#EXTINF:-1,UK|VH1
+http://webo.asia:80/vik/vik123/11828
+#EXTINF:-1,UK|VH1 Classic
+http://webo.asia:80/vik/vik123/11827
+#EXTINF:-1,UK|Capital XTRA RADIO SD*
+http://webo.asia:80/vik/vik123/80281
+#EXTINF:-1,UK|Now 70's SD*
+http://webo.asia:80/vik/vik123/80325
+#EXTINF:-1,UK|NOW 80s SD*
+http://webo.asia:80/vik/vik123/80308
+#EXTINF:-1,UK|NOW 90s SD*
+http://webo.asia:80/vik/vik123/80309
+#EXTINF:-1,UK|Smooth RADIO
+http://webo.asia:80/vik/vik123/80317
+#EXTINF:-1,UK|NOW 90s
+http://webo.asia:80/vik/vik123/11826
+#EXTINF:-1,UK|Trace Latina SD*
+http://webo.asia:80/vik/vik123/80326
+#EXTINF:-1,UK|Trace Urban SD*
+http://webo.asia:80/vik/vik123/80327
+#EXTINF:-1,UK|Trace Vault SD*
+http://webo.asia:80/vik/vik123/80328
+#EXTINF:-1,UK|BBC News FHD*
+http://webo.asia:80/vik/vik123/11930
+#EXTINF:-1,UK|BBC News HD
+http://webo.asia:80/vik/vik123/11929
+#EXTINF:-1,UK|Sky News FHD*
+http://webo.asia:80/vik/vik123/11928
+#EXTINF:-1,UK|Sky News SD
+http://webo.asia:80/vik/vik123/15247
+#EXTINF:-1,UK|RTE News Now
+http://webo.asia:80/vik/vik123/11923
+#EXTINF:-1,UK|AL JAZEERA HD
+http://webo.asia:80/vik/vik123/21039
+#EXTINF:-1,UK|BBC World News HD*
+http://webo.asia:80/vik/vik123/11918
+#EXTINF:-1,UK|Bloomberg News HD
+http://webo.asia:80/vik/vik123/11925
+#EXTINF:-1,UK|Channels 24 Nigeria
+http://webo.asia:80/vik/vik123/17686
+#EXTINF:-1,UK|CGTN News
+http://webo.asia:80/vik/vik123/11916
+#EXTINF:-1,UK|TRT WORLD
+http://webo.asia:80/vik/vik123/21038
+#EXTINF:-1,UK|CNN SD*
+http://webo.asia:80/vik/vik123/11931
+#EXTINF:-1,UK|Fox News HD*
+http://webo.asia:80/vik/vik123/11926
+#EXTINF:-1,UK|France 24 SD*
+http://webo.asia:80/vik/vik123/11920
+#EXTINF:-1,UK|NHK News HD
+http://webo.asia:80/vik/vik123/11922
+#EXTINF:-1,UK|Sky News Arabia
+http://webo.asia:80/vik/vik123/11927
+#EXTINF:-1,UK|PBS America SD*
+http://webo.asia:80/vik/vik123/80311
+#EXTINF:-1,UK|RT News SD*
+http://webo.asia:80/vik/vik123/80315
+#EXTINF:-1,UK|TVC News SD*
+http://webo.asia:80/vik/vik123/80323
+#EXTINF:-1,UK|ARISE NEWS
+http://webo.asia:80/vik/vik123/11921
+#EXTINF:-1,UK|Russia Today HD
+http://webo.asia:80/vik/vik123/11924
+#EXTINF:-1,UK|Premier Sports 1 SD
+http://webo.asia:80/vik/vik123/168692
+#EXTINF:-1,UK|Sky Cinema Disney HD
+http://webo.asia:80/vik/vik123/11801
+#EXTINF:-1,UK|Hum Masala SD*
+http://webo.asia:80/vik/vik123/12568
+#EXTINF:-1,UK|ARY Family
+http://webo.asia:80/vik/vik123/17711
+#EXTINF:-1,UK|Geo TV SD*
+http://webo.asia:80/vik/vik123/12589
+#EXTINF:-1,UK|Geo Kahani SD*
+http://webo.asia:80/vik/vik123/12597
+#EXTINF:-1,UK|PTV Home
+http://webo.asia:80/vik/vik123/12527
+#EXTINF:-1,UK|PTV Global
+http://webo.asia:80/vik/vik123/12565
+#EXTINF:-1,UK|VENUS TV
+http://webo.asia:80/vik/vik123/12552
+#EXTINF:-1,UK|New Vision (ARY World)
+http://webo.asia:80/vik/vik123/15718
+#EXTINF:-1,UK|Geo News SD*
+http://webo.asia:80/vik/vik123/12588
+#EXTINF:-1,UK|92 News SD*
+http://webo.asia:80/vik/vik123/17635
+#EXTINF:-1,UK|Hum News SD*
+http://webo.asia:80/vik/vik123/14332
+#EXTINF:-1,UK|Dawn News SD*
+http://webo.asia:80/vik/vik123/20145
+#EXTINF:-1,UK|Samaa TV SD*
+http://webo.asia:80/vik/vik123/15220
+#EXTINF:-1,UK|Dunya News
+http://webo.asia:80/vik/vik123/16671
+#EXTINF:-1,UK|Channel 44 SD*
+http://webo.asia:80/vik/vik123/11970
+#EXTINF:-1,UK|British Muslim SD*
+http://webo.asia:80/vik/vik123/20139
+#EXTINF:-1,UK|Eman Channel
+http://webo.asia:80/vik/vik123/20140
+#EXTINF:-1,UK|Hidayat TV
+http://webo.asia:80/vik/vik123/20138
+#EXTINF:-1,UK|Islam TV Urdu
+http://webo.asia:80/vik/vik123/20146
+#EXTINF:-1,UK|Islam TV Eng
+http://webo.asia:80/vik/vik123/1257
+#EXTINF:-1,UK|Islam Channel
+http://webo.asia:80/vik/vik123/69279
+#EXTINF:-1,UK|Iqra  TV
+http://webo.asia:80/vik/vik123/20143
+#EXTINF:-1,UK|Madani Channel
+http://webo.asia:80/vik/vik123/1258
+#EXTINF:-1,UK|mta Muslim TV
+http://webo.asia:80/vik/vik123/20137
+#EXTINF:-1,UK|MATV National
+http://webo.asia:80/vik/vik123/69101
+#EXTINF:-1,UK|mta Africa TV
+http://webo.asia:80/vik/vik123/69102
+#EXTINF:-1,UK|Peace TV ENG
+http://webo.asia:80/vik/vik123/1254
+#EXTINF:-1,UK|Peace TV Urdu
+http://webo.asia:80/vik/vik123/1255
+#EXTINF:-1,UK|ATN Bangla
+http://webo.asia:80/vik/vik123/1260
+#EXTINF:-1,UK|Ashrafi channel
+http://webo.asia:80/vik/vik123/22150
+#EXTINF:-1,UK|Noor TV
+http://webo.asia:80/vik/vik123/20142
+#EXTINF:-1,UK|Ahlebait TV
+http://webo.asia:80/vik/vik123/20144
+#EXTINF:-1,UK|Ahlulbayt TV
+http://webo.asia:80/vik/vik123/412
+#EXTINF:-1,UK|Safeer TV SD*
+http://webo.asia:80/vik/vik123/20147
+#EXTINF:-1,UK|AASTHA SD*
+http://webo.asia:80/vik/vik123/16133
+#EXTINF:-1,UK|Kanshi TV SD*
+http://webo.asia:80/vik/vik123/20150
+#EXTINF:-1,UK|Takbeer TV
+http://webo.asia:80/vik/vik123/11635
+#EXTINF:-1,UK|A1 TV
+http://webo.asia:80/vik/vik123/20148
+#EXTINF:-1,UK|Hochanda
+http://webo.asia:80/vik/vik123/22385
+#EXTINF:-1,UK|EWTN Catholic
+http://webo.asia:80/vik/vik123/22393
+#EXTINF:-1,UK|Faith UK
+http://webo.asia:80/vik/vik123/22382
+#EXTINF:-1,UK|Faith World TV
+http://webo.asia:80/vik/vik123/22387
+#EXTINF:-1,UK|TJC Live
+http://webo.asia:80/vik/vik123/22396
+#EXTINF:-1,UK|God TV
+http://webo.asia:80/vik/vik123/11815
+#EXTINF:-1,UK|Gospel Channel
+http://webo.asia:80/vik/vik123/22390
+#EXTINF:-1,UK|Hillsong
+http://webo.asia:80/vik/vik123/22381
+#EXTINF:-1,UK|Inspiration TV
+http://webo.asia:80/vik/vik123/22392
+#EXTINF:-1,UK|KICC TV
+http://webo.asia:80/vik/vik123/22386
+#EXTINF:-1,UK|Love Nature FHD*
+http://webo.asia:80/vik/vik123/22391
+#EXTINF:-1,UK|SON LIFE TV
+http://webo.asia:80/vik/vik123/22384
+#EXTINF:-1,UK|Revelation
+http://webo.asia:80/vik/vik123/22395
+#EXTINF:-1,UK|Fame TV
+http://webo.asia:80/vik/vik123/22394
+#EXTINF:-1,UK|TBN UK
+http://webo.asia:80/vik/vik123/22389
+#EXTINF:-1,UK|Good News TV SD*
+http://webo.asia:80/vik/vik123/80291
+#EXTINF:-1,UK|Dunamis TV SD*
+http://webo.asia:80/vik/vik123/80288
+#EXTINF:-1,UK|Celebration TV SD*
+http://webo.asia:80/vik/vik123/80285
+#EXTINF:-1,UK|Utsav Plus UHD*
+http://webo.asia:80/vik/vik123/15221
+#EXTINF:-1,UK|Utsav Plus SD*
+http://webo.asia:80/vik/vik123/12586
+#EXTINF:-1,UK|Utsav Bharat SD
+http://webo.asia:80/vik/vik123/11934
+#EXTINF:-1,UK|Utsav Bharat
+http://webo.asia:80/vik/vik123/12492
+#EXTINF:-1,UK|Colors TV UHD*
+http://webo.asia:80/vik/vik123/52576
+#EXTINF:-1,UK|Colors TV HD*
+http://webo.asia:80/vik/vik123/12469
+#EXTINF:-1,UK|Colors Rishtey SD*
+http://webo.asia:80/vik/vik123/12476
+#EXTINF:-1,UK|Colors Cineplex SD*
+http://webo.asia:80/vik/vik123/16657
+#EXTINF:-1,UK|SONY TV UHD*
+http://webo.asia:80/vik/vik123/12478
+#EXTINF:-1,UK|SONY TV SD
+http://webo.asia:80/vik/vik123/12591
+#EXTINF:-1,UK|SONY SAB TV
+http://webo.asia:80/vik/vik123/15217
+#EXTINF:-1,UK|SONY SAB SD*
+http://webo.asia:80/vik/vik123/12485
+#EXTINF:-1,UK|Zee TV HD
+http://webo.asia:80/vik/vik123/15224
+#EXTINF:-1,UK|Zee TV FHD*
+http://webo.asia:80/vik/vik123/12587
+#EXTINF:-1,UK|Utsav Gold UHD*
+http://webo.asia:80/vik/vik123/15219
+#EXTINF:-1,UK|Utsav Gold SD*
+http://webo.asia:80/vik/vik123/12613
+#EXTINF:-1,UK|SONY MAX UHD*
+http://webo.asia:80/vik/vik123/15218
+#EXTINF:-1,UK|SONY MAX SD*
+http://webo.asia:80/vik/vik123/12604
+#EXTINF:-1,UK|SONY MAX 2 SD*
+http://webo.asia:80/vik/vik123/20830
+#EXTINF:-1,UK|Zee Cinema SD*
+http://webo.asia:80/vik/vik123/15222
+#EXTINF:-1,UK|Zee Cinema HD*
+http://webo.asia:80/vik/vik123/12482
+#EXTINF:-1,UK|B4U Movies SD*
+http://webo.asia:80/vik/vik123/15139
+#EXTINF:-1,UK|Brit Asia TV SD*
+http://webo.asia:80/vik/vik123/12652
+#EXTINF:-1,UK|B4U Music
+http://webo.asia:80/vik/vik123/15230
+#EXTINF:-1,UK|NEWS | Aaj Tak SD*
+http://webo.asia:80/vik/vik123/15226
+#EXTINF:-1,UK|Sanskar SD*
+http://webo.asia:80/vik/vik123/21040
+#EXTINF:-1,UK|NEWS | NDTV 24X7 SD*
+http://webo.asia:80/vik/vik123/17634
+#EXTINF:-1,UK|NEWS | Republic Bharat
+http://webo.asia:80/vik/vik123/57497
+#EXTINF:-1,UK|PUNJ | PTC Punjabi SD*
+http://webo.asia:80/vik/vik123/12611
+#EXTINF:-1,UK|PUNJ | Sangat TV SD*
+http://webo.asia:80/vik/vik123/11932
+#EXTINF:-1,UK|PUNJ | AKAAL TV SD*
+http://webo.asia:80/vik/vik123/16100
+#EXTINF:-1,UK|PUNJ | KHALSAAL TV SD*
+http://webo.asia:80/vik/vik123/16561
+#EXTINF:-1,UK|PUNJ | SIKH CHANNEL SD*
+http://webo.asia:80/vik/vik123/16130
+#EXTINF:-1,UK|PUNJ | TS PTC NEWS
+http://webo.asia:80/vik/vik123/12610
+#EXTINF:-1,UK|PUNJ | NEWS 18 PUNJAB
+http://webo.asia:80/vik/vik123/12612
+#EXTINF:-1,UK|ATN Bangla*
+http://webo.asia:80/vik/vik123/12606
+#EXTINF:-1,UK|NTV BANGLA SD*
+http://webo.asia:80/vik/vik123/12609
+#EXTINF:-1,UK|TV ONE
+http://webo.asia:80/vik/vik123/17629
