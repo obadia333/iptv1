@@ -1,0 +1,10 @@
+#EXTINF : 0, france2
+http://185.93.1.39/FRCH_FRANCE_2_HD/index.m3u8
+#EXTINF : 0, france3
+http://185.93.1.39/FRCH_FRANCE_3_HD/index.m3u8
+#EXTINF : 0, france4
+http://185.93.1.39/FRCH_FRANCE_4_HD/index.m3u8
+#EXTINF : 0, france5
+http://185.93.1.39/FRCH_FRANCE_5_HD/index.m3u8
+#EXTINF : 0, tmc
+http: //185.93. 1.39 / FRCH_TMC_HD / index.m3u8
